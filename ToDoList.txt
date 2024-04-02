@@ -1,0 +1,4 @@
+To Do List:
+1. Press r to remove these items
+2. This list is being input from a file
+3. The final edited list will be written onto this file as well
