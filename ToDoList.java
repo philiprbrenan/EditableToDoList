@@ -37,7 +37,7 @@ public class ToDoList {
 		
 		System.out.println("Welcome to your to do list!");
 		// create user input scanner to edit the array list
-		Scanner in = new Scanner (System.in);
+		final Scanner in = new Scanner (System.in);
 		String action = "";
 		// instructions on what to input to edit the array list
 		System.out.println("If you want to add an item, press \"a\"");
